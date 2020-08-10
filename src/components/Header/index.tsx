@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 
 import logoStn from '../../assets/novologosantana.png';
 import { Img, Container } from './styles';

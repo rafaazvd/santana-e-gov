@@ -1,4 +1,4 @@
-import React, { useState, FormEvent } from 'react';
+import React from 'react';
 import { Link } from 'react-router-dom';
 
 import Footer from '../../components/Footer';
@@ -22,18 +22,9 @@ import {
     Network,
  } from './styles';
 
-interface Repository {
-    full_name: string;
-    description: string;
-    owner: {
-        login: string;
-        avatar_url: string;
-    };
-}
-const Dashboard: React.FC = () => {
-    const [name, setName] = useState('');
-    
 
+const Dashboard: React.FC = () => {
+ 
     return (
         <Container>
             <header>
