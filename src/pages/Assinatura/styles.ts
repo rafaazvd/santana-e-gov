@@ -16,6 +16,9 @@ export const Container = styled.div`
             h3 {
                 text-align: justify;
                 color: #425157;
+                @media(max-width: 800px){
+                    font-size: 11px;
+                }
             }
         }
     }
@@ -27,10 +30,16 @@ export const Content = styled.div`
     background-color: #9999;
     border: solid 2px;
     h1 {
-        color: #ffff;
+        color: #ffff; 
+        @media(max-width: 800px){
+            font-size: 13px;
+        }
     }
     p {
         font-size: 21px;
+        @media(max-width: 800px){
+                    font-size: 11px;
+                }
     }
     }
 `;
@@ -57,6 +66,9 @@ export const Img = styled.img`
 
 export const Title = styled.h1`
     color: #F1F5F7;
+    @media(max-width: 800px){
+        font-size: 16px;
+    }
 `;
 export const Section1 = styled.section`
     
