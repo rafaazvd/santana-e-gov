@@ -37,7 +37,7 @@ const Dashboard: React.FC = () => {
                 <br /> <br />
             </header>
              <section>
-                 <h4>Santana E-gov777</h4>
+                 <h4>Santana E-gov</h4>
                 <Img>
                     <img src={logo} alt="santana e-gov" />
                 </Img>
