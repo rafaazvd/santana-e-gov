@@ -6,7 +6,7 @@ export const Container = styled.div`
         background-color: #D4E3EA;
 
         p {
-            text-align: center;
+            text-align: justify;
             padding: 7%;
             h1 {
                 text-align: center;
@@ -14,7 +14,7 @@ export const Container = styled.div`
                 margin-top: 1%;
             }
             h3 {
-                text-align: center;
+                text-align: justify;
                 color: #425157;
             }
         }
@@ -41,8 +41,13 @@ export const Content2 = styled.div`
     }
     h4 {
         margin: 2%;
+        text-align: center;
+        padding: 12px;
         background-color: #1CACE6;
         border-radius: 13px;
+    }
+    p {
+        text-align: justify;
     }
 `;
 

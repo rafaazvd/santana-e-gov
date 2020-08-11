@@ -15,7 +15,7 @@ const Assinatura: React.FC = () => {
             </Header>
             <Section>
                 <p>
-                    <h1>Assinatura digital</h1>
+                    <h1>ASSINATURA DIGITAL</h1>
                     <h3>Apesar de muitos dos órgãos públicos municipais ainda funcionarem com sistemas desktop e com o uso excessivo de papéis, muitas cidades estão se adaptando a nova realidade e a quantidade de Prefeituras Digitais têm aumentado significativamente no país. Ao tramitar processos digitalmente, além de reduzir os custos com papel, a prefeitura acompanha o ritmo frenético do futuro.
 A modernização da administração pública é inevitável e deve envolver todas as áreas para que o resultado seja verdadeiramente eficaz.
 Ao utilizar assinaturas digitais e eletrônicas, a gestão está um passo a frente, mas ainda não surte um efeito transformador.
@@ -39,14 +39,14 @@ Diferente de uma assinatura feita peito próprio punho em formato de imagem, que
                 <br/> <br/> <br/> <br/> <br/></Section2>
                 </Content>
                 <Content2>
-                <h1>As principais vantagens de uma prefeitura digital</h1>
+                <h1>AS PRINCIPAIS VANTAGENS DE UMA PPREFEITURA DIGITAL</h1>
                 <p>
-                <h4>sistema de gestão integrado e único:</h4> Utilizando uma plataforma única de gestão pública municipal, é possível gerar processos licitatórios, atos de RH, Compras, Contabilidade, Tributação, Arrecadação e Atendimento ao Cidadão.
+                <h4>Sistema de Gestão Integrado e Único:</h4> Utilizando uma plataforma única de gestão pública municipal, é possível gerar processos licitatórios, atos de RH, Compras, Contabilidade, Tributação, Arrecadação e Atendimento ao Cidadão.
 Além disso, os servidores também conseguem descrever memorandos, solicitar ordens de compras e efetuar pagamentos.<br /> O gestor pode ainda acompanhar a fila de processos e seus prazos, por setor ou funcionário reduzindo o tempo de atendimentos e facilitando a vida dos envolvidos incluindo os cidadãos e empresas.
 
 
 
-<h4>Processos digitais:</h4> Através do gerenciamento eletrônico de documentos, os processos tradicionais que antes eram executados por meio de papéis ficam para trás. Aqueles documentos físicos que ainda precisam ser consultados podem ser digitalizados e armazenados em um sistema de gestão. Além disso, o servidor pode classificar cada arquivo digitalizado e separar por categorias, facilitando o controle e possibilitando o acesso em poucos cliques.
+<h4>Processos Digitais:</h4> Através do gerenciamento eletrônico de documentos, os processos tradicionais que antes eram executados por meio de papéis ficam para trás. Aqueles documentos físicos que ainda precisam ser consultados podem ser digitalizados e armazenados em um sistema de gestão. Além disso, o servidor pode classificar cada arquivo digitalizado e separar por categorias, facilitando o controle e possibilitando o acesso em poucos cliques.
 
 Assim, ao digitalizar os processos, os servidores municipais ganham:
       <br/><br/>
@@ -72,7 +72,7 @@ o uso da assinatura digital.
 
 Com certificações de segurança, as assinaturas digitais permitem que o gestor municipal consiga assinar empenhos,
  liquidações e pagamentos de qualquer lugar.
- <h4>Tarefas automatizadas:</h4>
+ <h4>Tarefas Automatizadas:</h4>
  Para organizar o trâmite de processo em meio digital, é necessário mapear os processos e criar fluxos de trabalho (workflow) para padronizar etapas e direcionar o trabalho dos servidores.
 
 O mapeamento de processos pode ser considerado um patrimônio de conhecimento para a Prefeitura, já que garante a padronização de etapas para a execução de quaisquer tipo de atividades dentro da administração.
@@ -84,7 +84,7 @@ Com a implementação do Workflow, tramitar processos, enviar notificações, so
 O Workflow direciona a realização de cada atividade para o setor e servidor responsável, oferecendo transparência aos procedimentos e evitando que o processo fique parado.
 
 Dessa forma, é possível identificar inconsistências e etapas que podem ser descartadas, fazendo com que as rotinas de trabalho sejam aprimoradas.
-<h4>Autoatendimento para cidadãos: </h4>Para seguir termos legais, toda administração pública deve disponibilizar aos cidadãos acesso a "Carta de Serviços", através de um Portal do Cidadão, sítio principal na internet.
+<h4>Autoatendimento para Cidadãos: </h4>Para seguir termos legais, toda administração pública deve disponibilizar aos cidadãos acesso a "Carta de Serviços", através de um Portal do Cidadão, sítio principal na internet.
 
 Nele, devem constar todos os serviços oferecidos e informações sobre como solicitá-los.
 
