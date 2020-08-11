@@ -39,7 +39,7 @@ Diferente de uma assinatura feita peito próprio punho em formato de imagem, que
                 <br/> <br/> <br/> <br/> <br/></Section2>
                 </Content>
                 <Content2>
-                <h1>AS PRINCIPAIS VANTAGENS DE UMA PPREFEITURA DIGITAL</h1>
+                <h1>AS PRINCIPAIS VANTAGENS DE UMA PREFEITURA DIGITAL</h1>
                 <p>
                 <h4>Sistema de Gestão Integrado e Único:</h4> Utilizando uma plataforma única de gestão pública municipal, é possível gerar processos licitatórios, atos de RH, Compras, Contabilidade, Tributação, Arrecadação e Atendimento ao Cidadão.
 Além disso, os servidores também conseguem descrever memorandos, solicitar ordens de compras e efetuar pagamentos.<br /> O gestor pode ainda acompanhar a fila de processos e seus prazos, por setor ou funcionário reduzindo o tempo de atendimentos e facilitando a vida dos envolvidos incluindo os cidadãos e empresas.
