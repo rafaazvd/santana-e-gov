@@ -29,9 +29,6 @@ export const Container = styled.div`
     border-radius: 7px;
     align-items: center;
     justify-content: center;
-    h4 {
-        opacity: 0.4;
-    }
     a {
         text-decoration: none;
     }
