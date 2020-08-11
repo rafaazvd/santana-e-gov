@@ -29,7 +29,7 @@ const Dashboard: React.FC = () => {
         <Container>
             <header>
                 <Link to="/">
-                <LogoHome src={logosantana} alt="santana ap"/>
+                <LogoHome src={logosantana} alt="santana e-gov"/>
                 <p>
                 PROJETO QUE VISA COMBATER A CORRUPÇÃO, TRAZER ECONOMIA PARA A GESTÃO PÚBLICA E DESBUROCRATIZAR AS OPERAÇÕES COM O USO DAS TECNOLOGIAS ABAIXO
                 </p>
@@ -37,9 +37,9 @@ const Dashboard: React.FC = () => {
                 <br /> <br />
             </header>
              <section>
-                 
+                 <h4>Santana E-gov777</h4>
                 <Img>
-                    <img src={logo} alt="git" />
+                    <img src={logo} alt="santana e-gov" />
                 </Img>
             <Techs>
             <Link to="/assinatura">
