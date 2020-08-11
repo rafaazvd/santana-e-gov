@@ -11,7 +11,7 @@ const Ethereum: React.FC = () => {
         <Container>
             <Header>
                 <Text>ETHEREUM</Text>
-                <Img src={ethereum1} />
+                <Img src={ethereum1} alt="santana e-gov"/>
             </Header>
             <Section>
                 <h1>Title</h1>

@@ -9,7 +9,7 @@ const Header: React.FC = ({ children }) => {
     return (
         <Container>
             <header>
-            <Img src={logoStn} />
+            <Img src={logoStn} alt="santana"/>
             
             {children}
             </header>

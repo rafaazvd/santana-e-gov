@@ -11,7 +11,7 @@ const Bitcoin: React.FC = () => {
         <Container>
             <Header>
                 <Text>BITCOIN</Text>
-                <Img src={bitcoin2} />
+                <Img src={bitcoin2} alt="e-gov"/>
             </Header>
             <Section>
                 <h1>Title</h1>

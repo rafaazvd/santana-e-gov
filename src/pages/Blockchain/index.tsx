@@ -11,7 +11,7 @@ const Blockchain: React.FC = () => {
         <Container>
             <Header>
                 <Text>BLOCKCHAIN</Text>
-                <Img src={blockchain1} />
+                <Img src={blockchain1} alt="santana e-gov"/>
             </Header>
             <Section>
                 <h1>Title</h1>

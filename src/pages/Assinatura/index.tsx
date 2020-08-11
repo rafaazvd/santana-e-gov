@@ -11,7 +11,7 @@ const Assinatura: React.FC = () => {
         <Container>
             <Header >
                 <Title>ASSINATURA DIGITAL</Title>
-                <Img src={logo1} />
+                <Img src={logo1} alt="santana e-gov"/>
             </Header>
             <Section>
                 <p>

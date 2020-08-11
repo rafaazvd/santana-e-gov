@@ -29,7 +29,7 @@ const Dashboard: React.FC = () => {
         <Container>
             <header>
                 <Link to="/">
-                <LogoHome src={logosantana} />
+                <LogoHome src={logosantana} alt="santana ap"/>
                 <p>
                 PROJETO QUE VISA COMBATER A CORRUPÇÃO, TRAZER ECONOMIA PARA A GESTÃO PÚBLICA E DESBUROCRATIZAR AS OPERAÇÕES COM O USO DAS TECNOLOGIAS ABAIXO
                 </p>
