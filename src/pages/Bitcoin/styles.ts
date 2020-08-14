@@ -18,7 +18,6 @@ export const Container = styled.div`
                 padding: 5%;
             }
         }
-        }
         h2 {
             margin: 2%;
             text-align: center;
